@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://exuberant-channel-666160.framer.app/sitemap.xml
